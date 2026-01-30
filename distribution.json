@@ -176,16 +176,6 @@
           }
         },
         {
-          "id": "com.hyfata.najoan:koreanpatch:1.9.5+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 565161,
-            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.20.1.jar",
-            "MD5": "d70f17b87492c7eae13cd14762226db4"
-          }
-        },
-        {
           "id": "ca.fxco:memoryleakfix:1.1.5@jar",
           "name": "Memory Leak Fix",
           "type": "FabricMod",
@@ -233,50 +223,6 @@
             "size": 5251599,
             "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.6.11.jar",
             "MD5": "9edf5ed876ba1f8bf4464d1b35ca48ff"
-          }
-        },
-        {
-          "id": "koreanpatch.json5",
-          "name": "koreanpatch.json5",
-          "type": "File",
-          "artifact": {
-            "size": 1513,
-            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/koreanpatch.json5",
-            "MD5": "db57d63145cae2aa9d67e8b160151008",
-            "path": "config/koreanpatch.json5"
-          }
-        },
-        {
-          "id": "sodium-fingerprint.json",
-          "name": "sodium-fingerprint.json",
-          "type": "File",
-          "artifact": {
-            "size": 427,
-            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/sodium-fingerprint.json",
-            "MD5": "c8b97d26c4e3bd63f2a420fd4eaea3b2",
-            "path": "config/sodium-fingerprint.json"
-          }
-        },
-        {
-          "id": "sodium-mixins.properties",
-          "name": "sodium-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 265,
-            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/sodium-mixins.properties",
-            "MD5": "456d99888369486f42d6ea7f70294170",
-            "path": "config/sodium-mixins.properties"
-          }
-        },
-        {
-          "id": "sodium-options.json",
-          "name": "sodium-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 632,
-            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/sodium-options.json",
-            "MD5": "0363a78d28c9139c2d1ec12b5b8a803e",
-            "path": "config/sodium-options.json"
           }
         },
         {
@@ -1344,17 +1290,6 @@
             "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/journeymap.log",
             "MD5": "e7cf3c34c8222c1d878e45eb9d57d1d9",
             "path": "journeymap/journeymap.log"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 5258,
-            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/options.txt",
-            "MD5": "3efe5587a7caacb7ce0c92a83be0af31",
-            "path": "options.txt"
           }
         },
         {
