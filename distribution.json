@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1944518,
             "MD5": "56c00fa22e0452e8567be1feae73c3b9",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+            "url": "https://fresm06.github.io/moamoacustom/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "2f93b816c901a020ea59692f0051e86d",
-                "url": "http://localhost:8080/repo/versions/1.20.1-fabric-0.18.4/1.20.1-fabric-0.18.4.json"
+                "url": "https://fresm06.github.io/moamoacustom/repo/versions/1.20.1-fabric-0.18.4/1.20.1-fabric-0.18.4.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://fresm06.github.io/moamoacustom/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://fresm06.github.io/moamoacustom/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://fresm06.github.io/moamoacustom/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://fresm06.github.io/moamoacustom/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://fresm06.github.io/moamoacustom/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1505269,
                 "MD5": "d27dcb910788a0bd4bea72942a714093",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+                "url": "https://fresm06.github.io/moamoacustom/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://fresm06.github.io/moamoacustom/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 164085,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/blur-3.1.0.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/blur-3.1.0.jar",
             "MD5": "5c2350374a817c510596dc2e96d5a20a"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 488133,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/entity_model_features_1.20.1-fabric-3.0.10.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/entity_model_features_1.20.1-fabric-3.0.10.jar",
             "MD5": "7acb7acbf93f187659080b1bd9305489"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 737909,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/entity_texture_features_1.20.1-fabric-7.0.8.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/entity_texture_features_1.20.1-fabric-7.0.8.jar",
             "MD5": "9a68ebcda7a07513eff3b03d8d4ee0ec"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107873,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
             "MD5": "3483560775f416a4c759535b898165a5"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7209180,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
             "MD5": "4689aa2b7ae8126112e32a2069dc1040"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 565161,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.20.1.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.20.1.jar",
             "MD5": "d70f17b87492c7eae13cd14762226db4"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 545175,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/modernfix-fabric-5.25.2+mc1.20.1.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/modernfix-fabric-5.25.2+mc1.20.1.jar",
             "MD5": "f4b88179db335a7e4f0234357b1a5ed1"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8823429,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/modid-1.0.0.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/modid-1.0.0.jar",
             "MD5": "5344c7453fadf592bd6a155488092c4a"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5251599,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.6.11.jar",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.6.11.jar",
             "MD5": "9edf5ed876ba1f8bf4464d1b35ca48ff"
           }
         },
@@ -241,7 +241,7 @@
           "type": "File",
           "artifact": {
             "size": 46,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/config/voicechat/category-volumes.properties",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/voicechat/category-volumes.properties",
             "MD5": "47731f53ffef4a8a57c766a8091a5651",
             "path": "config/voicechat/category-volumes.properties"
           }
@@ -252,7 +252,7 @@
           "type": "File",
           "artifact": {
             "size": 44,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/config/voicechat/player-volumes.properties",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/voicechat/player-volumes.properties",
             "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
             "path": "config/voicechat/player-volumes.properties"
           }
@@ -263,7 +263,7 @@
           "type": "File",
           "artifact": {
             "size": 1182,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/config/voicechat/translations.properties",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/voicechat/translations.properties",
             "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
             "path": "config/voicechat/translations.properties"
           }
@@ -274,7 +274,7 @@
           "type": "File",
           "artifact": {
             "size": 2,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/config/voicechat/username-cache.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/voicechat/username-cache.json",
             "MD5": "99914b932bd37a50b983c5e7c90ae93b",
             "path": "config/voicechat/username-cache.json"
           }
@@ -285,7 +285,7 @@
           "type": "File",
           "artifact": {
             "size": 4901,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/config/voicechat/voicechat-client.properties",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/voicechat/voicechat-client.properties",
             "MD5": "72a50cf0777692a2f42d8c87c05299fb",
             "path": "config/voicechat/voicechat-client.properties"
           }
@@ -296,7 +296,7 @@
           "type": "File",
           "artifact": {
             "size": 2442,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/config/voicechat/voicechat-server.properties",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/voicechat/voicechat-server.properties",
             "MD5": "5095de392ceaadcc07124e33d5fa30e2",
             "path": "config/voicechat/voicechat-server.properties"
           }
@@ -307,7 +307,7 @@
           "type": "File",
           "artifact": {
             "size": 4503,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/colorpalette.html",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/colorpalette.html",
             "MD5": "216a02fa4f41dab9096eaabc9eb1eecc",
             "path": "journeymap/colorpalette.html"
           }
@@ -318,7 +318,7 @@
           "type": "File",
           "artifact": {
             "size": 169052,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/colorpalette.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/colorpalette.json",
             "MD5": "8d3edbb6f5cb3b883ff1e7e29fd8da85",
             "path": "journeymap/colorpalette.json"
           }
@@ -329,7 +329,7 @@
           "type": "File",
           "artifact": {
             "size": 1871,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.core.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.core.config",
             "MD5": "ed3074091eb161b8b58ff4b47dc56b66",
             "path": "journeymap/config/5.10/journeymap.core.config"
           }
@@ -340,7 +340,7 @@
           "type": "File",
           "artifact": {
             "size": 869,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.fullmap.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.fullmap.config",
             "MD5": "2a9a4c9b6cc20870a3b916ba15ec3885",
             "path": "journeymap/config/5.10/journeymap.fullmap.config"
           }
@@ -351,7 +351,7 @@
           "type": "File",
           "artifact": {
             "size": 1661,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.minimap.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.minimap.config",
             "MD5": "65bddb37e680cbde1b964baffd699136",
             "path": "journeymap/config/5.10/journeymap.minimap.config"
           }
@@ -362,7 +362,7 @@
           "type": "File",
           "artifact": {
             "size": 1663,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.minimap2.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.minimap2.config",
             "MD5": "57e57f0eedd63cbf27c9f777066994df",
             "path": "journeymap/config/5.10/journeymap.minimap2.config"
           }
@@ -373,7 +373,7 @@
           "type": "File",
           "artifact": {
             "size": 964,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.topo.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.topo.config",
             "MD5": "b85aff5fc98d64899eba3daf14fd426e",
             "path": "journeymap/config/5.10/journeymap.topo.config"
           }
@@ -384,7 +384,7 @@
           "type": "File",
           "artifact": {
             "size": 898,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.waypoint.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.waypoint.config",
             "MD5": "fca16665156f8d44e8681c638911ae6f",
             "path": "journeymap/config/5.10/journeymap.waypoint.config"
           }
@@ -395,7 +395,7 @@
           "type": "File",
           "artifact": {
             "size": 155,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.webmap.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/config/5.10/journeymap.webmap.config",
             "MD5": "3c23a4358f94e4abae31192daab27e8e",
             "path": "journeymap/config/5.10/journeymap.webmap.config"
           }
@@ -406,7 +406,7 @@
           "type": "File",
           "artifact": {
             "size": 83,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/default.theme.config",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/default.theme.config",
             "MD5": "9a651dda4758f8a349cc4017f2d60da6",
             "path": "journeymap/icon/theme/default.theme.config"
           }
@@ -417,7 +417,7 @@
           "type": "File",
           "artifact": {
             "size": 148,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/htoolbar_begin.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/htoolbar_begin.png",
             "MD5": "cfab66d0a13d5b7f359fabc1d9a19437",
             "path": "journeymap/icon/theme/flat/container/htoolbar_begin.png"
           }
@@ -428,7 +428,7 @@
           "type": "File",
           "artifact": {
             "size": 148,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/htoolbar_end.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/htoolbar_end.png",
             "MD5": "cfab66d0a13d5b7f359fabc1d9a19437",
             "path": "journeymap/icon/theme/flat/container/htoolbar_end.png"
           }
@@ -439,7 +439,7 @@
           "type": "File",
           "artifact": {
             "size": 199,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/htoolbar_inner.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/htoolbar_inner.png",
             "MD5": "569e70e6e0c65135a9b6b6815b84b972",
             "path": "journeymap/icon/theme/flat/container/htoolbar_inner.png"
           }
@@ -450,7 +450,7 @@
           "type": "File",
           "artifact": {
             "size": 145,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/vtoolbar_begin.png",
             "MD5": "82b8b457e484046e479974e26ac2fa41",
             "path": "journeymap/icon/theme/flat/container/vtoolbar_begin.png"
           }
@@ -461,7 +461,7 @@
           "type": "File",
           "artifact": {
             "size": 145,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/vtoolbar_end.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/vtoolbar_end.png",
             "MD5": "82b8b457e484046e479974e26ac2fa41",
             "path": "journeymap/icon/theme/flat/container/vtoolbar_end.png"
           }
@@ -472,7 +472,7 @@
           "type": "File",
           "artifact": {
             "size": 199,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/container/vtoolbar_inner.png",
             "MD5": "569e70e6e0c65135a9b6b6815b84b972",
             "path": "journeymap/icon/theme/flat/container/vtoolbar_inner.png"
           }
@@ -483,7 +483,7 @@
           "type": "File",
           "artifact": {
             "size": 399,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_disabled.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_disabled.png",
             "MD5": "c3b4c14895831b27deb5b0880a71fe73",
             "path": "journeymap/icon/theme/flat/control/flat_button_disabled.png"
           }
@@ -494,7 +494,7 @@
           "type": "File",
           "artifact": {
             "size": 399,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_hover.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_hover.png",
             "MD5": "c3b4c14895831b27deb5b0880a71fe73",
             "path": "journeymap/icon/theme/flat/control/flat_button_hover.png"
           }
@@ -505,7 +505,7 @@
           "type": "File",
           "artifact": {
             "size": 399,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_off.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_off.png",
             "MD5": "c3b4c14895831b27deb5b0880a71fe73",
             "path": "journeymap/icon/theme/flat/control/flat_button_off.png"
           }
@@ -516,7 +516,7 @@
           "type": "File",
           "artifact": {
             "size": 399,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_on.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_button_on.png",
             "MD5": "c3b4c14895831b27deb5b0880a71fe73",
             "path": "journeymap/icon/theme/flat/control/flat_button_on.png"
           }
@@ -527,7 +527,7 @@
           "type": "File",
           "artifact": {
             "size": 667,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
             "MD5": "791d87e69e610e569353544f3687d3d0",
             "path": "journeymap/icon/theme/flat/control/flat_toggle_disabled.png"
           }
@@ -538,7 +538,7 @@
           "type": "File",
           "artifact": {
             "size": 611,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_hover.png",
             "MD5": "f746c00ea1178ba9768a024dd79972ec",
             "path": "journeymap/icon/theme/flat/control/flat_toggle_hover.png"
           }
@@ -549,7 +549,7 @@
           "type": "File",
           "artifact": {
             "size": 667,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_off.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_off.png",
             "MD5": "791d87e69e610e569353544f3687d3d0",
             "path": "journeymap/icon/theme/flat/control/flat_toggle_off.png"
           }
@@ -560,7 +560,7 @@
           "type": "File",
           "artifact": {
             "size": 611,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_on.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/control/flat_toggle_on.png",
             "MD5": "32333489c3af7acb084fc7d2e1d6b835",
             "path": "journeymap/icon/theme/flat/control/flat_toggle_on.png"
           }
@@ -571,7 +571,7 @@
           "type": "File",
           "artifact": {
             "size": 8925,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/DesertTemple.theme2.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/DesertTemple.theme2.json",
             "MD5": "ef97d6d4a3c3a745a5a819f81617a3a4",
             "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json"
           }
@@ -582,7 +582,7 @@
           "type": "File",
           "artifact": {
             "size": 8920,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/EndCity.theme2.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/EndCity.theme2.json",
             "MD5": "8bd570528afe51dad02dcd97eaa16098",
             "path": "journeymap/icon/theme/flat/EndCity.theme2.json"
           }
@@ -593,7 +593,7 @@
           "type": "File",
           "artifact": {
             "size": 8926,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/ForestMansion.theme2.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/ForestMansion.theme2.json",
             "MD5": "c0fb578a459a623baf538026edd27422",
             "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json"
           }
@@ -604,7 +604,7 @@
           "type": "File",
           "artifact": {
             "size": 651,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/about.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/about.png",
             "MD5": "51dd21a90b121e6ee54629d7aa06bbe0",
             "path": "journeymap/icon/theme/flat/icon/about.png"
           }
@@ -615,7 +615,7 @@
           "type": "File",
           "artifact": {
             "size": 1371,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/actions.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/actions.png",
             "MD5": "0ef11997aba83ffb45df8ef8fa5a7aac",
             "path": "journeymap/icon/theme/flat/icon/actions.png"
           }
@@ -626,7 +626,7 @@
           "type": "File",
           "artifact": {
             "size": 1101,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/alert.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/alert.png",
             "MD5": "afaa1f1f124c7446ea79d69718e2e9a9",
             "path": "journeymap/icon/theme/flat/icon/alert.png"
           }
@@ -637,7 +637,7 @@
           "type": "File",
           "artifact": {
             "size": 834,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/animals.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/animals.png",
             "MD5": "05d86dc96f528fd3f644384f82f4b30f",
             "path": "journeymap/icon/theme/flat/icon/animals.png"
           }
@@ -648,7 +648,7 @@
           "type": "File",
           "artifact": {
             "size": 591,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/automap.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/automap.png",
             "MD5": "457dcb561ef49473e6242f8fabf1f0f1",
             "path": "journeymap/icon/theme/flat/icon/automap.png"
           }
@@ -659,7 +659,7 @@
           "type": "File",
           "artifact": {
             "size": 1029,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/biome.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/biome.png",
             "MD5": "c45a1223330ab9056f931ee1df6a5c3c",
             "path": "journeymap/icon/theme/flat/icon/biome.png"
           }
@@ -670,7 +670,7 @@
           "type": "File",
           "artifact": {
             "size": 1694,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/browser.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/browser.png",
             "MD5": "55898ae51928c26ba420bd3716c64b72",
             "path": "journeymap/icon/theme/flat/icon/browser.png"
           }
@@ -681,7 +681,7 @@
           "type": "File",
           "artifact": {
             "size": 1081,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/caves.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/caves.png",
             "MD5": "7da04feb4cefb09e18cc3a095a083558",
             "path": "journeymap/icon/theme/flat/icon/caves.png"
           }
@@ -692,7 +692,7 @@
           "type": "File",
           "artifact": {
             "size": 1373,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/close.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/close.png",
             "MD5": "e4455f2a047f784231056e104293c161",
             "path": "journeymap/icon/theme/flat/icon/close.png"
           }
@@ -703,7 +703,7 @@
           "type": "File",
           "artifact": {
             "size": 1515,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/day.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/day.png",
             "MD5": "4b394cdd9d548238442673032c56fa57",
             "path": "journeymap/icon/theme/flat/icon/day.png"
           }
@@ -714,7 +714,7 @@
           "type": "File",
           "artifact": {
             "size": 939,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/delete.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/delete.png",
             "MD5": "629d6824db2898ebc16a00ba14487552",
             "path": "journeymap/icon/theme/flat/icon/delete.png"
           }
@@ -725,7 +725,7 @@
           "type": "File",
           "artifact": {
             "size": 833,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/disable.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/disable.png",
             "MD5": "73d4e93e1c708d3f20f3d14e24dfa001",
             "path": "journeymap/icon/theme/flat/icon/disable.png"
           }
@@ -736,7 +736,7 @@
           "type": "File",
           "artifact": {
             "size": 1274,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/follow.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/follow.png",
             "MD5": "1af8b8c5d19f250bebc0b8a331a4467d",
             "path": "journeymap/icon/theme/flat/icon/follow.png"
           }
@@ -747,7 +747,7 @@
           "type": "File",
           "artifact": {
             "size": 514,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/grid.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/grid.png",
             "MD5": "630458a6b626ae8c4661392e28327162",
             "path": "journeymap/icon/theme/flat/icon/grid.png"
           }
@@ -758,7 +758,7 @@
           "type": "File",
           "artifact": {
             "size": 456,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/keys.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/keys.png",
             "MD5": "48438ebd8464da96a7d0ed12d041cebe",
             "path": "journeymap/icon/theme/flat/icon/keys.png"
           }
@@ -769,7 +769,7 @@
           "type": "File",
           "artifact": {
             "size": 1339,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/layers.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/layers.png",
             "MD5": "450ef573defd780e53aed8b422c20188",
             "path": "journeymap/icon/theme/flat/icon/layers.png"
           }
@@ -780,7 +780,7 @@
           "type": "File",
           "artifact": {
             "size": 482,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/monsters.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/monsters.png",
             "MD5": "161f4b1825fe6aaa7e6c646e1df7c22d",
             "path": "journeymap/icon/theme/flat/icon/monsters.png"
           }
@@ -791,7 +791,7 @@
           "type": "File",
           "artifact": {
             "size": 1035,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/night.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/night.png",
             "MD5": "2c2e1ae5318cd9d3b566ebad983e641d",
             "path": "journeymap/icon/theme/flat/icon/night.png"
           }
@@ -802,7 +802,7 @@
           "type": "File",
           "artifact": {
             "size": 644,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/options.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/options.png",
             "MD5": "0b718c3c1ee9ee19d0dadae5f252535b",
             "path": "journeymap/icon/theme/flat/icon/options.png"
           }
@@ -813,7 +813,7 @@
           "type": "File",
           "artifact": {
             "size": 827,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/pets.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/pets.png",
             "MD5": "ecff0a3a4cb9cc88eec4c65d83639d19",
             "path": "journeymap/icon/theme/flat/icon/pets.png"
           }
@@ -824,7 +824,7 @@
           "type": "File",
           "artifact": {
             "size": 362,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/players.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/players.png",
             "MD5": "ff8899097b21d8744ed57065cf25a5b2",
             "path": "journeymap/icon/theme/flat/icon/players.png"
           }
@@ -835,7 +835,7 @@
           "type": "File",
           "artifact": {
             "size": 659,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/reset.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/reset.png",
             "MD5": "4027ef0ff444cab320978eb0a2974b7e",
             "path": "journeymap/icon/theme/flat/icon/reset.png"
           }
@@ -846,7 +846,7 @@
           "type": "File",
           "artifact": {
             "size": 926,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/savemap.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/savemap.png",
             "MD5": "be5bfbbeab34d292ddcef08f9d7383c8",
             "path": "journeymap/icon/theme/flat/icon/savemap.png"
           }
@@ -857,7 +857,7 @@
           "type": "File",
           "artifact": {
             "size": 1168,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/search.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/search.png",
             "MD5": "b30e5d3527eb483b344d47b11597b7df",
             "path": "journeymap/icon/theme/flat/icon/search.png"
           }
@@ -868,7 +868,7 @@
           "type": "File",
           "artifact": {
             "size": 3038,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/server.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/server.png",
             "MD5": "b934f10174be355e0414ccea904b019b",
             "path": "journeymap/icon/theme/flat/icon/server.png"
           }
@@ -879,7 +879,7 @@
           "type": "File",
           "artifact": {
             "size": 1151,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/theme.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/theme.png",
             "MD5": "4a4cbd1cba4e8606cbb7a8260fe3a2b2",
             "path": "journeymap/icon/theme/flat/icon/theme.png"
           }
@@ -890,7 +890,7 @@
           "type": "File",
           "artifact": {
             "size": 1330,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/topo.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/topo.png",
             "MD5": "ed12bd7bd28debaaf75d1af3a910a1c6",
             "path": "journeymap/icon/theme/flat/icon/topo.png"
           }
@@ -901,7 +901,7 @@
           "type": "File",
           "artifact": {
             "size": 393,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/villagers.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/villagers.png",
             "MD5": "1d49a9009bbfee78f7e773a9d352d3a2",
             "path": "journeymap/icon/theme/flat/icon/villagers.png"
           }
@@ -912,7 +912,7 @@
           "type": "File",
           "artifact": {
             "size": 1606,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/waypoints.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/waypoints.png",
             "MD5": "c7faaffc9c1ce8316f91bb934b19b5c7",
             "path": "journeymap/icon/theme/flat/icon/waypoints.png"
           }
@@ -923,7 +923,7 @@
           "type": "File",
           "artifact": {
             "size": 1305,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/zoomin.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/zoomin.png",
             "MD5": "76e924ab75bab01b92d4c7bb97ac2625",
             "path": "journeymap/icon/theme/flat/icon/zoomin.png"
           }
@@ -934,7 +934,7 @@
           "type": "File",
           "artifact": {
             "size": 1241,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/zoomout.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/icon/zoomout.png",
             "MD5": "d2e04e295c2f35c1f1c6801dc59dc440",
             "path": "journeymap/icon/theme/flat/icon/zoomout.png"
           }
@@ -945,7 +945,7 @@
           "type": "File",
           "artifact": {
             "size": 589,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
             "MD5": "cba29650354980f136db82cc52d55d89",
             "path": "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png"
           }
@@ -956,7 +956,7 @@
           "type": "File",
           "artifact": {
             "size": 7020,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
             "MD5": "4e3e20c86f375ae6d1b53f448835fdb8",
             "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png"
           }
@@ -967,7 +967,7 @@
           "type": "File",
           "artifact": {
             "size": 20438,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
             "MD5": "1e908326f7bddbb59634164c52b39265",
             "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png"
           }
@@ -978,7 +978,7 @@
           "type": "File",
           "artifact": {
             "size": 6751,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
             "MD5": "253e38c2aca245171819adc83e5d6950",
             "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png"
           }
@@ -989,7 +989,7 @@
           "type": "File",
           "artifact": {
             "size": 14309,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
             "MD5": "edc555a83f714efa5c12d03865112628",
             "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png"
           }
@@ -1000,7 +1000,7 @@
           "type": "File",
           "artifact": {
             "size": 959,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
             "MD5": "b93f935ef1173b4ba48bd95133568b56",
             "path": "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png"
           }
@@ -1011,7 +1011,7 @@
           "type": "File",
           "artifact": {
             "size": 2067,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
             "MD5": "9e3dd563a09eca2e7ce680aa0218d0e3",
             "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png"
           }
@@ -1022,7 +1022,7 @@
           "type": "File",
           "artifact": {
             "size": 10622,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
             "MD5": "2135a5f65419ee3fcd0d63a722ec0cfd",
             "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png"
           }
@@ -1033,7 +1033,7 @@
           "type": "File",
           "artifact": {
             "size": 15210,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
             "MD5": "8c28162acd291452f96b8962706545bb",
             "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png"
           }
@@ -1044,7 +1044,7 @@
           "type": "File",
           "artifact": {
             "size": 37803,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
             "MD5": "6c67ecd99a7cbc14838c437f3059d245",
             "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png"
           }
@@ -1055,7 +1055,7 @@
           "type": "File",
           "artifact": {
             "size": 154,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
             "MD5": "0dec683433cc1ed29578edbe447e0416",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_bottom.png"
           }
@@ -1066,7 +1066,7 @@
           "type": "File",
           "artifact": {
             "size": 159,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
             "MD5": "e0ef36459a92962091b3c2297ebd492b",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png"
           }
@@ -1077,7 +1077,7 @@
           "type": "File",
           "artifact": {
             "size": 162,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
             "MD5": "257056afd41430be6c6e017adbbec83b",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png"
           }
@@ -1088,7 +1088,7 @@
           "type": "File",
           "artifact": {
             "size": 199,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
             "MD5": "3e111929da1913b53355991ba69fdb9a",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png"
           }
@@ -1099,7 +1099,7 @@
           "type": "File",
           "artifact": {
             "size": 152,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_left.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_left.png",
             "MD5": "4784fe7e5dcf7cc3629399b67b1626c3",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_left.png"
           }
@@ -1110,7 +1110,7 @@
           "type": "File",
           "artifact": {
             "size": 153,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_right.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_right.png",
             "MD5": "f24bb1839602c9c4b507f36f03755f15",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_right.png"
           }
@@ -1121,7 +1121,7 @@
           "type": "File",
           "artifact": {
             "size": 154,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_top.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_top.png",
             "MD5": "5d32ccf7b5cf96c557976d18f7b9f807",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_top.png"
           }
@@ -1132,7 +1132,7 @@
           "type": "File",
           "artifact": {
             "size": 157,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
             "MD5": "89dac45d101d30c5b68e8053c6882a0d",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_topleft.png"
           }
@@ -1143,7 +1143,7 @@
           "type": "File",
           "artifact": {
             "size": 157,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/flat_topright.png",
             "MD5": "f8771e145f8364e82ed7ce3ae79e4bda",
             "path": "journeymap/icon/theme/flat/minimap/square/flat_topright.png"
           }
@@ -1154,7 +1154,7 @@
           "type": "File",
           "artifact": {
             "size": 164,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
             "MD5": "7ebab006d87fcbc1da28990b3f923989",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_bottom.png"
           }
@@ -1165,7 +1165,7 @@
           "type": "File",
           "artifact": {
             "size": 207,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
             "MD5": "ef8534a2f05d2c3106f0720e93eddb3f",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png"
           }
@@ -1176,7 +1176,7 @@
           "type": "File",
           "artifact": {
             "size": 215,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
             "MD5": "4b7003eba91d737295e1429d66b31156",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png"
           }
@@ -1187,7 +1187,7 @@
           "type": "File",
           "artifact": {
             "size": 199,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
             "MD5": "3e111929da1913b53355991ba69fdb9a",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png"
           }
@@ -1198,7 +1198,7 @@
           "type": "File",
           "artifact": {
             "size": 160,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_left.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_left.png",
             "MD5": "7c9ed0e45981a75dfe3f713c00c1acfb",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_left.png"
           }
@@ -1209,7 +1209,7 @@
           "type": "File",
           "artifact": {
             "size": 163,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_right.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_right.png",
             "MD5": "4f353bcd3ffab12b1bd48705732a91dc",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_right.png"
           }
@@ -1220,7 +1220,7 @@
           "type": "File",
           "artifact": {
             "size": 159,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_top.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_top.png",
             "MD5": "fe079179f72d2be13e42252336db233b",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_top.png"
           }
@@ -1231,7 +1231,7 @@
           "type": "File",
           "artifact": {
             "size": 205,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
             "MD5": "01e815c33e5bec079337e6cf7739511e",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_topleft.png"
           }
@@ -1242,7 +1242,7 @@
           "type": "File",
           "artifact": {
             "size": 226,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/minimap/square/pur_topright.png",
             "MD5": "e800293134c150236f70b7da30bd7169",
             "path": "journeymap/icon/theme/flat/minimap/square/pur_topright.png"
           }
@@ -1253,7 +1253,7 @@
           "type": "File",
           "artifact": {
             "size": 8927,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/NetherFortress.theme2.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/NetherFortress.theme2.json",
             "MD5": "17e698f2232e0839fc2ea8cf0b2bcfd4",
             "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json"
           }
@@ -1264,7 +1264,7 @@
           "type": "File",
           "artifact": {
             "size": 8926,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/OceanMonument.theme2.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/OceanMonument.theme2.json",
             "MD5": "3320c6ddb02866175d0b13f98e5ab7ff",
             "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json"
           }
@@ -1275,7 +1275,7 @@
           "type": "File",
           "artifact": {
             "size": 8907,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/Purist.theme2.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/Purist.theme2.json",
             "MD5": "bd7bc4c29dca54bccecf2cdc114a6667",
             "path": "journeymap/icon/theme/flat/Purist.theme2.json"
           }
@@ -1286,7 +1286,7 @@
           "type": "File",
           "artifact": {
             "size": 8923,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/Stronghold.theme2.json",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/icon/theme/flat/Stronghold.theme2.json",
             "MD5": "875fcfd96f8371c6e3a0fcd7fca994df",
             "path": "journeymap/icon/theme/flat/Stronghold.theme2.json"
           }
@@ -1297,7 +1297,7 @@
           "type": "File",
           "artifact": {
             "size": 10788,
-            "url": "http://localhost:8080/servers/moamoa-1.20.1/files/journeymap/journeymap.log",
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/journeymap.log",
             "MD5": "e7cf3c34c8222c1d878e45eb9d57d1d9",
             "path": "journeymap/journeymap.log"
           }
