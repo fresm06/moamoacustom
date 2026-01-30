@@ -236,6 +236,17 @@
           }
         },
         {
+          "id": "koreanpatch.json5",
+          "name": "koreanpatch.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1513,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/koreanpatch.json5",
+            "MD5": "db57d63145cae2aa9d67e8b160151008",
+            "path": "config/koreanpatch.json5"
+          }
+        },
+        {
           "id": "sodium-fingerprint.json",
           "name": "sodium-fingerprint.json",
           "type": "File",
@@ -1333,6 +1344,39 @@
             "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/journeymap/journeymap.log",
             "MD5": "e7cf3c34c8222c1d878e45eb9d57d1d9",
             "path": "journeymap/journeymap.log"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5258,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/options.txt",
+            "MD5": "3efe5587a7caacb7ce0c92a83be0af31",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 15435,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/servers.dat",
+            "MD5": "9f1e5ca32bf55dd5bcaaeb92ff685679",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 15435,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/servers.dat_old",
+            "MD5": "9f1e5ca32bf55dd5bcaaeb92ff685679",
+            "path": "servers.dat_old"
           }
         }
       ]
