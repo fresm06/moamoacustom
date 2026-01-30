@@ -236,6 +236,39 @@
           }
         },
         {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/sodium-fingerprint.json",
+            "MD5": "c8b97d26c4e3bd63f2a420fd4eaea3b2",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 265,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/sodium-mixins.properties",
+            "MD5": "456d99888369486f42d6ea7f70294170",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 632,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/sodium-options.json",
+            "MD5": "0363a78d28c9139c2d1ec12b5b8a803e",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
           "id": "category-volumes.properties",
           "name": "category-volumes.properties",
           "type": "File",
