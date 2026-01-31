@@ -356,6 +356,16 @@
           }
         },
         {
+          "id": "xyz.trivaxy:tia:1.20-1.1@jar",
+          "name": "Tiny Item Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18492,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/tia-1.20-1.1-fabric.jar",
+            "MD5": "262aef6a6587de46b8238ca1144deea5"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.6.11@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
