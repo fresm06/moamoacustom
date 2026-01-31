@@ -156,6 +156,16 @@
           }
         },
         {
+          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
+          "name": "Cupboard",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 25668,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/cupboard-fabric-1.20.1-2.7.jar",
+            "MD5": "a7a05a32b4a66d64c6c050666e16d744"
+          }
+        },
+        {
           "id": "traben.entity_model_features:entity_model_features:3.0.10@jar",
           "name": "Entity Model Features",
           "type": "FabricMod",
