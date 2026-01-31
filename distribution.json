@@ -200,9 +200,9 @@
           "name": "My Nickname Mod",
           "type": "FabricMod",
           "artifact": {
-            "size": 8823429,
+            "size": 8823426,
             "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/fabricmods/required/modid-1.0.0.jar",
-            "MD5": "5344c7453fadf592bd6a155488092c4a"
+            "MD5": "771ef95a351e8bcbfe8e59f7137ece18"
           }
         },
         {
