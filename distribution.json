@@ -386,6 +386,17 @@
           }
         },
         {
+          "id": "obscure_tooltips-client.toml",
+          "name": "obscure_tooltips-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5392,
+            "url": "https://fresm06.github.io/moamoacustom/servers/moamoa-1.20.1/files/config/obscuria/obscure_tooltips-client.toml",
+            "MD5": "ecd5f8000acc9734f4d4a58ad7da9ca0",
+            "path": "config/obscuria/obscure_tooltips-client.toml"
+          }
+        },
+        {
           "id": "category-volumes.properties",
           "name": "category-volumes.properties",
           "type": "File",
